@@ -1,6 +1,6 @@
 requirejs.config({
 	paths: {
-		'jquery': 'http://code.jquery.com/jquery-1.11.3.min',
+		'jquery': 'jquery-1.9.1',
 		'tmpl': 'tmpl'
 	},
 	shim: {
